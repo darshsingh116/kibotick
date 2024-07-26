@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "178440710636",
+    "project_id": "kibotick-7be59",
+    "storage_bucket": "kibotick-7be59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178440710636:android:7e114cea4dd70bd477b8c9",
+        "android_client_info": {
+          "package_name": "com.example.kibotick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178440710636-kmpqgfq2varv6e8b7ejueubch9ops6m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kibotick",
+            "certificate_hash": "c81124dd39bf0075873b612bf8b076bcf7a37fff"
+          }
+        },
+        {
+          "client_id": "178440710636-p619n63ieh7d7haise2jjeue0ea7a362.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb2456Epsmt2b_INveT4eJKR_3Z6NpM3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178440710636-p619n63ieh7d7haise2jjeue0ea7a362.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "178440710636-8cbb19c6udtn9qp89tdmqp5r1plit5ao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kibotick"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
